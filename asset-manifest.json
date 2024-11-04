@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clock/static/css/main.0908038a.css",
+    "main.js": "/Clock/static/js/main.68c789a9.js",
+    "static/js/453.ed3810f9.chunk.js": "/Clock/static/js/453.ed3810f9.chunk.js",
+    "static/media/digitalclockbackgr.jpg": "/Clock/static/media/digitalclockbackgr.97bb3125c3bddeae14a3.jpg",
+    "index.html": "/Clock/index.html",
+    "main.0908038a.css.map": "/Clock/static/css/main.0908038a.css.map",
+    "main.68c789a9.js.map": "/Clock/static/js/main.68c789a9.js.map",
+    "453.ed3810f9.chunk.js.map": "/Clock/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0908038a.css",
+    "static/js/main.68c789a9.js"
+  ]
+}
